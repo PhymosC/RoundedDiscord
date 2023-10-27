@@ -1,36 +1,30 @@
 /* Chat UI */
-.tutorialContainer-1pL9QS {
+.tutorialContainer__890ea {
   margin-top: 6px;
 }
-.resizeHandle-2F4Beb {
+.resizeHandle_f1a098 {
   width: 0px;
 }
-.container-2cd8Mz,
-.container-36u7Lw,
-.chat-9g_3Xj,
-.pageWrapper-2PwDoS,
-.container-2_BXG-,
-.main-243VC2,
-.applicationStore-2nk7Lo,
-.containerSidenav-3qiKqP,
-.shop-3sIaH8,
-.container-20Ljoy {
+.container__5c7e7,
+.container_c64a9f,
+.chat__52833,
+.applicationStore_fc7d76,
+.threadSidebarOpen_fa231d,
+.shop_b31ed2{
   border-radius: var(--radius);
   margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 5px;
 }
-.sidebar-1tnWFu,
-.chat-9g_3Xj,
-.container-3s2w-i {
+.sidebar_ded4b5 {
   border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 5px !important;
   margin-left: 5px;
 }
-.wrapper-1_HaEi {
+.wrapper_a7e7a8 {
   border-radius: var(--radius);
   margin-top: 10px;
   margin-bottom: 10px;
@@ -38,6 +32,13 @@
   margin-left: 10px;
   background-color: var(--background-secondary);
 }
+..container_def45c{
+  border-radius: 14px !important;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+}
+
 .container-3s2w-i {
   border-radius: var(--radius);
   margin-top: 10px;
